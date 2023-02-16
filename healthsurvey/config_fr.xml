@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>healthsurvey</name>
+    <displayName><![CDATA[Health Survey]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Use this module if you need information about your customers health. You can add as many questions as you want.]]></description>
+    <author><![CDATA[Jonathan FRANCO]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>
