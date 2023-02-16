@@ -16,5 +16,11 @@ Directly in the header, you have access to the survey.
 This module install two databases : ps_healthSurveyQuestions which stores all questions, and ps_healthSurveyAnswers which stores all anwsers.
 ![mysql](https://user-images.githubusercontent.com/85479547/219441065-d5ccc917-fc7c-443d-ba5e-faaf43efd1f0.png)
 
+## What's next
 
+I would like to attach the survey to an event during the checkout, just before the customer confirm all information. Unfortunately, despite all my efforts, I did not manage to find the right hook yet or the good method.
+
+## Thanks
+
+Thanks for trying this module, if you have any questions related to the code, feel free to contact me.
 
